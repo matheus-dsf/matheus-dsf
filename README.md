@@ -1,9 +1,6 @@
-# Olá, eu sou o Matheus! 👋
-
 ### 🎯 Engenheiro de Dados em formação
 
-Apaixonado por transformar dados brutos em informações de valor.
-Atualmente construindo projetos práticos de Engenharia de Dados.
+💻 Estudante de Engenharia de Dados focado em transformar dados em soluções práticas. Atualmente construindo projetos práticos de Engenharia de Dados.
 
 ---
 
